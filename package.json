@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "./scripts/test.sh",
+    "clean": "./scripts/clean.sh",
+    "watch": "./scripts/watch.sh",
+    "build": "./scripts/build.sh"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-runtime": "^5.6.20"
+  },
+  "devDependencies": {
+    "longjohn": "^0.2.8",
+    "source-map-support": "^0.3.2"
+  }
+}
