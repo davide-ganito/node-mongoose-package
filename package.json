@@ -17,6 +17,7 @@
   },
   "devDependencies": {
     "longjohn": "^0.2.8",
-    "source-map-support": "^0.3.2"
+    "source-map-support": "^0.3.2",
+    "yargs": "^3.27.0"
   }
 }
