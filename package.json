@@ -4,10 +4,10 @@
   "description": "",
   "main": "dist/index.js",
   "scripts": {
-    "test": "./scripts/test.sh",
-    "clean": "./scripts/clean.sh",
-    "watch": "./scripts/watch.sh",
-    "build": "./scripts/build.sh"
+    "test": "./scripts/test",
+    "clean": "./scripts/clean",
+    "watch": "./scripts/watch",
+    "build": "./scripts/build"
   },
   "author": "",
   "license": "ISC",
