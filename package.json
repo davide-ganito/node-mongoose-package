@@ -12,7 +12,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-runtime": "^5.6.20"
+    "babel-runtime": "^5.6.20",
+    "debug": "^2.2.0"
   },
   "devDependencies": {
     "longjohn": "^0.2.8",
